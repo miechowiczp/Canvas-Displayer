@@ -1,0 +1,29 @@
+
+/* 
+    Created on : 2016-06-08, 10:21:51
+    Author     : Paweł Miechowicz
+*/
+#wrapper{
+    display: block;
+    vertical-align: bottom;
+}
+#header{
+    display: block;
+    
+}
+#content{
+    display: block;
+    
+}
+#footer{
+    display: block;
+    background-color: rgb(13,13,13);
+    color: mintcream;
+    
+}
+body{
+    background-color: burlywood;
+    margin:0px;
+    padding:0px;
+}
+
